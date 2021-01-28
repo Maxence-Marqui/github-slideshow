@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Alors oui bonjour au revoir
 Use the left arrow to go back!
